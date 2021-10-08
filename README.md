@@ -14,7 +14,7 @@
 ## Run
 
 ```shellscript
-git clone git@github.com:koreacreditdata/guides.git
+git clone https://github.com/koreacreditdata/frontend-dotfiles.git
 
 cd dotfiles/frontend;
 
